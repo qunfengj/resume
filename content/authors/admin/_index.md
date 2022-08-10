@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qunfeng Jiang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fudan University
+    url: https://en.wikipedia.org/wiki/Fudan_University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -59,12 +59,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV_Qunfeng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'qfjiang19@fudan.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -72,6 +72,6 @@ highlight_name: true
 
 I’m Qunfeng Jiang 江群峰, an undergraduate at the Dept. of Physics, Fudan University, Shanghai. I’m also a SURF student at Caltech in the 2022 summer with a project on the inner accretion flows of a black hole.
 
-My research interests include high-energy astrophysics, X-ray astronomy, and the behavior of black holes.
+My research focuses on high-energy astrophysics, X-ray astronomy, and the behavior of black holes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Qunfeng.pdf" "newtab" >}}resumé{{< /staticref >}}.
