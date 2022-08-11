@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: BSc in Physics
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023(expected)
+    - course: SURF Student
+      institution: California Institute of Technology
+      year: 2022
+    - course: Summer Intern
+      institution: The National Astronomical Observatories, Chinese Academy of Sciences
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,17 +42,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:qfjiang19@fudan.edu.cn
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/QunfengJ
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=fuP6b2kAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/qunfengj
+#  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 
@@ -70,8 +70,8 @@ email: 'qfjiang19@fudan.edu.cn'
 highlight_name: true
 ---
 
-I’m Qunfeng Jiang 江群峰, an undergraduate at the Dept. of Physics, Fudan University, Shanghai. I’m also a SURF student at Caltech in the 2022 summer with a project on the inner accretion flows of a black hole.
+I’m Qunfeng Jiang 江群峰, an undergraduate at the Department of Physics, Fudan University, China. I’m a SURF student at Caltech in 2022 working on studying the inner accretion flows of a black hole binary with X-ray reflection spectroscopy.
 
-My research focuses on high-energy astrophysics, X-ray astronomy, and the behavior of black holes.
+My research focuses on high-energy astrophysics, X-ray astronomy, and the behaviors of black holes. I'm also interested in multi-messenger astronomy with gravitation waves and the application of newest techniques like machine learning to astronomy data analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Qunfeng.pdf" "newtab" >}}resumé{{< /staticref >}}.
