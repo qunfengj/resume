@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: BSc in Physics
-      institution: Stanford University
+      institution: Fudan University
       year: 2023(expected)
     - course: SURF Student
       institution: California Institute of Technology
@@ -70,8 +70,10 @@ email: 'qfjiang19@fudan.edu.cn'
 highlight_name: true
 ---
 
-I’m Qunfeng Jiang 江群峰, an undergraduate at the Department of Physics, Fudan University, China. I’m a SURF student at Caltech in 2022 working on studying the inner accretion flows of a black hole binary with X-ray reflection spectroscopy.
+I’m Qunfeng Jiang 江群峰, an undergraduate at the Department of Physics, Fudan University, China. I’m a SURF student in the NuSTAR group at Caltech in 2022 working on the inner accretion flows of a black hole binary with X-ray reflection spectroscopy.
 
 My research focuses on high-energy astrophysics, black holes, and the accretion disks of black holes. I'm also interested in multimessenger observations with gravitation waves and the application of newest techniques like machine learning to astronomy data analysis.
+
+Besides astronomy, I'm interested in political philosophy and the history of political thoughts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Qunfeng.pdf" "newtab" >}}resumé{{< /staticref >}}.
