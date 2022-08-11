@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - X-ray astronomy
+  - Black Holes
+  - Accretion Disks
 
 # Education to show in About widget
 education:
@@ -72,6 +72,6 @@ highlight_name: true
 
 I’m Qunfeng Jiang 江群峰, an undergraduate at the Department of Physics, Fudan University, China. I’m a SURF student at Caltech in 2022 working on studying the inner accretion flows of a black hole binary with X-ray reflection spectroscopy.
 
-My research focuses on high-energy astrophysics, X-ray astronomy, and the behaviors of black holes. I'm also interested in multi-messenger astronomy with gravitation waves and the application of newest techniques like machine learning to astronomy data analysis.
+My research focuses on high-energy astrophysics, black holes, and the accretion disks of black holes. I'm also interested in multimessenger observations with gravitation waves and the application of newest techniques like machine learning to astronomy data analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Qunfeng.pdf" "newtab" >}}resumé{{< /staticref >}}.
