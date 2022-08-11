@@ -15,7 +15,7 @@ authors:
   - Tripathi, A.
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
@@ -35,7 +35,7 @@ publication_types: ['1']
 publication: In *Physical Review D*
 publication_short: In *Physical Review D*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+ abstract: Astrophysical black holes are thought to be the Kerr black holes predicted by general relativity, but macroscopic deviations from the Kerr solution can be expected from a number of scenarios involving new physics. In Paper I, we studied the reflection features in NuSTAR and XMM-Newton spectra of the supermassive black hole at the center of the galaxy MCG–06–30–15 and we constrained a set of deformation parameters proposed by Konoplya, Rezzolla, and Zhidenko (Phys. Rev. D 93, 064015, 2016). In the present work, we analyze the x-ray data of a stellar-mass black hole within the same theoretical framework in order to probe a different curvature regime. We consider a NuSTAR observation of the x-ray binary EXO 1846–031 during its outburst in 2019. As in the case of Paper I, all our fits are consistent with the Kerr black hole hypothesis, but some deformation parameters cannot be constrained well.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2106.11658.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,10 +61,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
+ image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
