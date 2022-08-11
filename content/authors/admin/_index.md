@@ -14,7 +14,7 @@ organizations:
     url: https://en.wikipedia.org/wiki/Fudan_University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on high-energy astrophysics, black holes, and the accretion disks of black holes.
 
 # Interests to show in About widget
 interests:
